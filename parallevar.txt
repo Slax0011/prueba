@@ -2,3 +2,5 @@ Cristian Rubiano
 
 pijama
 bufanda
+pantalones
+camisetas
